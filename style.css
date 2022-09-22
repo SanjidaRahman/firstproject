@@ -1,0 +1,19 @@
+.blog2{
+    border: 2px solid purple;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center ;
+    width: 30%;
+    float: left;/*float use korar age width set kore nite hoy*/
+
+    /*float chara display diyeo kaj kora jae*/
+
+}
+.blog{
+    border: 3px dotted blueviolet;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 20%;
+    display: inline-block;
+}
